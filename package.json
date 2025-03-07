@@ -16,5 +16,17 @@
     "url": "https://github.com/carlahacuman/api_typeorm/issues"
   },
   "homepage": "https://github.com/carlahacuman/api_typeorm#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@types/sequelize": "^4.28.20",
+    "bcryptjs": "^3.0.2",
+    "express": "^4.21.2",
+    "joi": "^17.13.3",
+    "mysql2": "^3.13.0",
+    "sequelize": "^6.37.6"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "typescript": "^5.8.2"
+  }
 }
